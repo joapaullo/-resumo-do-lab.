@@ -5,6 +5,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 ## 1. Acesso ao Portal do Azure:## 
 
 Acesse o Portal do Azure (https://portal.azure.com/) utilizando sua conta Microsoft. Caso não possua uma conta, será necessário criar uma.
+
 2. Criação do Grupo de Recursos:
 
 Um grupo de recursos é um contêiner lógico para os recursos do Azure. Recomenda-se criar um grupo de recursos específico para sua máquina virtual.
@@ -14,6 +15,7 @@ Assinatura: Selecione sua assinatura do Azure.
 Grupo de recursos: Escolha um nome para seu grupo de recursos.
 Região: Selecione a região do Azure onde você deseja criar a máquina virtual.
 Clique em "Examinar + criar" e, em seguida, em "Criar".
+
 3. Criação da Máquina Virtual:
 
 No portal, clique em "Máquinas virtuais" e, em seguida, em "Criar" e selecione "Máquina virtual do Azure".
@@ -31,6 +33,8 @@ Clique em "Gerenciamento" para configurar o monitoramento e o backup da sua máq
 Clique em "Avançado" para configurar extensões e outras opções avançadas.
 Clique em "Marcas" para adicionar marcas à sua máquina virtual.
 Clique em "Examinar + criar" e, em seguida, em "Criar".
+
+
 4. Conexão à Máquina Virtual:
 
 Após a criação da máquina virtual, você poderá se conectar a ela usando RDP (Windows) ou SSH (Linux).
