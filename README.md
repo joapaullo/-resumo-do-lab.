@@ -1,3 +1,36 @@
+# Veja alguma vantagens de criar uma máquina virtual (VM) no Azure que  oferece uma série de vantagens para indivíduos e empresas, proporcionando flexibilidade, escalabilidade e eficiência na gestão de recursos de computação. Aqui estão alguns dos principais benefícios:
+
+1. Escalabilidade e Flexibilidade:
+
+Dimensionamento sob demanda: O Azure permite aumentar ou diminuir os recursos da VM de acordo com as necessidades, evitando o investimento em hardware subutilizado.
+Variedade de configurações: É possível escolher entre uma ampla gama de configurações de hardware e sistemas operacionais, adaptando a VM a diferentes cargas de trabalho.
+
+2. Redução de Custos:
+Modelo de pagamento por uso: Pague apenas pelos recursos que você utiliza, eliminando custos com infraestrutura física e manutenção.
+Opções de economia: O Azure oferece programas como o Benefício Híbrido do Azure e VMs de Spot, que permitem reduzir os custos.
+
+3. Alta Disponibilidade e Confiabilidade:
+Infraestrutura global: A rede global de data centers do Azure garante alta disponibilidade e resiliência das VMs.
+Acordos de Nível de Serviço (SLAs): O Azure oferece SLAs que garantem um alto tempo de atividade das VMs, minimizando interrupções.
+
+4. Segurança:
+Recursos avançados de segurança: O Azure oferece recursos de segurança robustos, como criptografia de dados, firewalls e monitoramento de ameaças.
+Conformidade: O Azure atende a diversos padrões de conformidade, garantindo a segurança dos dados e o cumprimento de regulamentações.
+
+5. Facilidade de Gerenciamento:
+Ferramentas de gerenciamento centralizadas: O Azure oferece ferramentas que facilitam o gerenciamento de VMs, como o Azure Portal e o Azure CLI.
+Automação: É possível automatizar tarefas de gerenciamento de VMs, como implantação, dimensionamento e backup.
+
+6. Integração com outros serviços Azure:
+Ecossistema abrangente: As VMs do Azure se integram perfeitamente com outros serviços Azure, como armazenamento, bancos de dados e redes.
+Desenvolvimento e teste: O Azure oferece um ambiente ideal para desenvolvimento e teste de aplicativos, com recursos para implantação e depuração.
+
+7. Inovação:
+Acesso a tecnologias de ponta: O Azure oferece acesso a tecnologias inovadoras, como inteligência artificial e aprendizado de máquina, que podem ser utilizadas em VMs.
+Atualizações contínuas: A Microsoft atualiza constantemente o Azure, garantindo que as VMs tenham acesso aos recursos mais recentes.
+
+PASSA -A -  PASSO...
+
 # -resumo-do-lab.
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
